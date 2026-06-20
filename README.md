@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rana Abdul Qadeer 👋
 
-<!--
-**RanaQadeer/RanaQadeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 ML Engineer specializing in LLMs, RAG Systems & AI Agents  
+🚀 I build end-to-end AI solutions — from model training to deployed products  
+🌍 Based in Islamabad, Pakistan  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Python · LangChain · FastAPI · Docker · Hugging Face · Streamlit · scikit-learn · PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+🔹 RAG Document Chatbot — Chat with any PDF using LangChain & Claude API *(coming soon)*  
+🔹 AI Task Automation Agent — Autonomous agent for business automation *(coming soon)*  
+🔹 ML Prediction API — Churn prediction deployed with FastAPI & Docker *(coming soon)*  
+🔹 Fine-Tuned LLM — Custom LLM fine-tuned with LoRA *(coming soon)*  
+🔹 Computer Vision App — Object detection with YOLOv11 + Gradio *(coming soon)*  
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/rana-qadeer-5b7773275)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](your-fiverr-url)
+📧 ranaqadeer7078@gmail.com
