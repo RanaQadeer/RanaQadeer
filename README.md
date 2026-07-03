@@ -16,5 +16,5 @@ Python · LangChain · FastAPI · Docker · Hugging Face · Streamlit · scikit-
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/rana-qadeer-5b7773275)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](your-fiverr-url)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/Eg3k9k7)
 📧 ranaqadeer7078@gmail.com
